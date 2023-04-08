@@ -13,7 +13,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey1012&layout=compact&theme=nightowl"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey1012&count_private=true&show_icons=true&theme=nightowl" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey1012&show_icons=true&theme=nightowl&hide_border=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shrey1012&theme=nightowl&hide_border=true"/>
