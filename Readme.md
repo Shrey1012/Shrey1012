@@ -2,7 +2,7 @@
 
 **Shrey Mehta** 
 
-- 🔭 I’m currently working on The IntellectsHome Project
+- 🔭 I’m currently working on Groove- A music player Project
 - 🌱 I’m currently learning ML/AI
 - 👯 I’m looking to collaborate on Web related projects and technologies based on MERN Stack
 - 💬 Ask me about Web related technologies
