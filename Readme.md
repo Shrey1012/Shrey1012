@@ -16,5 +16,5 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey1012&count_private=true&show_icons=true&theme=nightowl" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Shrey1012&theme=nightowl&hide_border=true" alt="Shrey's Github Streak" width="600"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=Shrey1012&theme=nightowl&hide_border=true"/>
 </a>
