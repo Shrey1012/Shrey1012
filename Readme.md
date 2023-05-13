@@ -12,7 +12,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey1012&layout=compact&theme=nightowl"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrey1012&layout=compact&theme=nightowl&exclude_repo=AI.Rookies&hide=Shell"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Shrey1012&show_icons=true&theme=nightowl&hide_border=true&count_private=true" />
